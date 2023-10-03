@@ -1,4 +1,4 @@
-## Open Kode
+# Open Kode
 
 Selamat datang di Repositori Open Kode! Open Kode adalah event untuk memasyaraktkan open source yang digagas oleh komunitas [Ngodingo](https://github.com/ngodingo) dan Synkode. Open Kode diselenggarakan sepanjang September hingga Oktober 2023 dalam dua tahap utama, yaitu preparation dan contribution. 
 
