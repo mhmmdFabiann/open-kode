@@ -56,7 +56,7 @@ git add .
 git commit -m "Deskripsi singkat perubahan"
 ```
 ```
-git push origin fitur-baru
+git push origin
 ```
 
 Jika langkah diatas sudah berhasil, seharusnya saat ini perubahan kode yang Anda buat di lokal sudah tersedia di repositori salinan pada akun github pribadi Anda.
