@@ -3,3 +3,5 @@
 Here are the lists of people who've signed up for or are joining in on the OpenKode event
 
 ### 2023
+
+- Arjun Nafi' Mahardika [GitHub](https://github.com/hyjhon)
