@@ -4,6 +4,4 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 
 ### 2023
 
-hadid tadi kentut
-
-Tolong acc
+Muhammmad Fabhian [Github](https://github.com/mhmmdFabiann)
