@@ -8,3 +8,4 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 - Rizqi Maulana Ardana [github](https://github.com/Maulana07Go)
 - Almaas Izdihar [GitHub](https://github.com/almaas-ice)
 - Mohamad Fajar Nur Khasani [GitHub](https://github.com/mhmdfjr)
+- Arjun Nafi' Mahardika [GitHub](https://github.com/hyjhon)
