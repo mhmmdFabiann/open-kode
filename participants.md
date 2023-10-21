@@ -13,3 +13,4 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 - Arjun Nafi' Mahardika [GitHub](https://github.com/hyjhon)
 - Muhammad Ma'mun Efendi [Github](https://github.com/efendi7)
 - Reiki Aziz  [Github] (https://github.com/rhyssh) 
+- Ahmad Bagas Aditya Ilham Aulia [Github](https://github.com/bagas474)
